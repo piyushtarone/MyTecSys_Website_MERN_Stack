@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "bcryptjs": "^3.0.3",
+    "docker": "^1.0.0",
     "git": "^0.1.5",
     "mongoose": "^9.0.1",
     "next": "16.0.7",
